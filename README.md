@@ -10,7 +10,7 @@ I'm currently a student of Computer Science and Engineering at ISEC, Coimbra.
 
 🕹 Spending preposterous amounts of time playing videogames
 
-(づ ◕‿◕ )づ Saxophone
+(づ ◕‿◕ )づ Saxophone Tenor
 
 💤 Procrastinating
 
