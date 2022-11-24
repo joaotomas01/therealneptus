@@ -22,8 +22,6 @@ I'm currently a student of Computer Science and Engineering at ISEC, Coimbra.
 - Java
 - Javascript
 - CSS
-- React
-- Kotlin
 
 
 ## 📫 Reach me here
