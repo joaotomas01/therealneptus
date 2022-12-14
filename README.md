@@ -21,6 +21,7 @@ I'm currently a student of Computer Science and Engineering.
 - Javascript
 - CSS
 - React
+- SQLite
 
 ## ✆ You can find me here
 
