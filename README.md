@@ -19,8 +19,6 @@ I'm currently a student of Computer Science and Engineering.
 - C++
 - Java
 - Javascript
-- Kotlin
-- Flutter
 - CSS
 - React
 - SQLite
