@@ -8,10 +8,6 @@ I'm currently a student of Computer Science and Engineering.
 
 🎮 Game developing
 
-🕹 Spending preposterous amounts of time playing videogames
-
-💤 Procrastinating
-
 ☕ Coffee  
 
 ## Languages and Tools
