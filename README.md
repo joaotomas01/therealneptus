@@ -8,7 +8,7 @@ I'm currently a student of Computer Science and Engineering.
 
 🎮 Game developing
 
-👨‍💻 Mostly backend solutions but i also like to dabble in frontend
+👨‍💻 Mostly backend solutions but i also  dabble in frontend
 
 ☕ Coffee  
 
