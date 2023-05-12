@@ -1,16 +1,6 @@
 ## 👋 Hi, I’m João 
 
-I'm currently a student of Computer Science and Engineering.
-
-## 👀 My Interests
-
-💻 Everything software related
-
-🎮 Game developing
-
-👨‍💻 Mostly backend solutions but i also  dabble in frontend
-
-☕ Coffee  
+I'm currently a student of Computer Science and Engineering at ISEC.
 
 ## Languages and Tools
 - C
