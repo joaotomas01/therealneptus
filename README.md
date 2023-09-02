@@ -11,6 +11,9 @@ I'm currently a student of Computer Science and Engineering at ISEC.
 - React
 - SQLite
 - Python
+- Win32 API
+- Spring Boot
+- MatLab
 
 ## ✆ You can find me here
 
