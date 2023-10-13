@@ -8,12 +8,11 @@ I'm currently a student of Informatics Engineering at ISEC.
 - Java
 - Javascript
 - CSS
-- React
+- React.js
 - SQLite
-- Python
 - Win32 API
 - Spring Boot
-- MatLab
+- Unix
 
 ## ✆ You can reach me here
 
